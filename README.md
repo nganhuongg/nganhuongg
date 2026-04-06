@@ -1,6 +1,6 @@
 ## Ngan Huong Nguyen
 
-I have thousands of recurring systems about data engineering, machine learning, and algorithm thinking. These questions pulled me into building models, systems and everything to truly understand how they can create an entire tech empire.
+Hi, I am Huong. I am currently an undergraduate student, majoring in CS, at Minerva University, based in San Francisco, CA. I have thousands of recurring systems about data engineering, machine learning, and algorithm thinking. These questions pulled me into building models, systems and everything to truly understand how they can create an entire tech empire.
 
 ## What I care about
 
