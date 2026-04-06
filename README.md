@@ -11,8 +11,7 @@ Hi, I am Huong. I am currently an undergraduate student, majoring in CS, at Mine
 I’m especially interested in:
 - Optimizing current systems by researching their **underlying algorithms**
 - Turning real-world problems into **tractable models**
-- Understanding **failure modes**, not just performance
-- Building systems that are **efficient, not just functional**
+- Building **AI-powered systems** that are structured and reliable
 
 
 ## What I’ve been building
@@ -85,9 +84,9 @@ A full-stack data system for environmental analysis across 101 cities.
 
 ## What I’m working on now
 
-- Making LLM systems more **observable and evaluatable**  
-- Designing **failure-aware pipelines** instead of best-case demos  
-- Understanding how systems behave under **real-world constraints**
+- Making **LLM systems** more observable and evaluatable  
+- Designing **autonomous pipelines** instead of best-case demos  
+- Understanding how **system architect** work under real-world constraints
 
 ---
 
