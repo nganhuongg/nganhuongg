@@ -17,7 +17,7 @@ I’m especially interested in:
 ## What I’ve been building
 
 ### Risk-Driven EDA Agent 
-[github](https://github.com/nganhuongg/eda-agent)
+[GitHub](https://github.com/nganhuongg/eda-agent)
 
 A system that automates exploratory data analysis as a **decision pipeline**.
 
@@ -37,8 +37,8 @@ An AI-powered STEAM learning platform for guided problem-solving.
 
 ---
 
-### [Teacher Allocation Optimization System] 
-[github](https://github.com/tony-buildd/Soda-hack)
+### Teacher Allocation Optimization System
+[GitHub](https://github.com/tony-buildd/Soda-hack)
 
 A real-world optimization system used by a provincial Department of Education.
 
@@ -49,8 +49,8 @@ A real-world optimization system used by a provincial Department of Education.
 
 ---
 
-### [ECG Multi-Label Disease Classification] 
-[github](https://github.com/nganhuongg/ECG-classification)
+### ECG Multi-Label Disease Classification 
+[GitHub](https://github.com/nganhuongg/ECG-classification)
 
 A machine learning system for predicting multiple heart conditions.
 
@@ -60,8 +60,8 @@ A machine learning system for predicting multiple heart conditions.
 
 ---
 
-### [Bay Area Environmental Dashboard] 
-[github](https://github.com/kh268/urban-planner)
+### Bay Area Environmental Dashboard 
+[GitHub](https://github.com/kh268/urban-planner)
 
 A full-stack data system for environmental analysis across 101 cities.
 
