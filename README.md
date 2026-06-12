@@ -16,19 +16,25 @@ I’m especially interested in:
 
 ## What I’ve been building
 
-### Risk-Driven EDA Agent 
-[GitHub](https://github.com/nganhuongg/eda-agent)
+### Business Analytics & Forecasting
+[GitHub](https://github.com/nganhuongg/business-data-analysis-and-prediction)
+A data analysis and revenue prediction report for a Vietnamese e-commerce company
 
-A system that automates exploratory data analysis as a **decision pipeline**.
-
-- Built a full pipeline: raw data → profiling → correlation → anomaly detection  
-- Designed a **dual-gate validation system** + feedback loop to reduce LLM inconsistency  
-- Implemented a **deterministic critic** (no LLM judging LLM) using strict numeric validation  
-- Added 60+ unit tests to enforce correctness and prevent silent failure  
+- Conducted exploratory analysis and built visual analytics reports on business revenue, cost, promotion, and seasonality patterns to identify key drivers of financial performance.
+- Engineered time-series features including lag variables, rolling statistics, seasonal indicators, and promotion features while avoiding target leakage.
+- Trained and evaluated baseline and ensemble forecasting models using expanding-window validation, comparing MAE, RMSE, and R².
+- Interpreted feature importance to explain how historical sales and promotions influenced predicted revenue.
 
 ---
+### Applied AI Music Recommendation System
+[GitHub](https://github.com/nganhuongg/applied-ai-music-recommendation-system)
+An AI-supported Music Recommendation System for song searching using a desired vibe description
 
-### Virtual Lab (LLM System) (coming soon)
+- Built a three-stage recommendation pipeline over 81k songs: TF-IDF retrieval for candidate generation, ML ranking for personalization, and LLM-generated explanations.
+- Designed cold-start onboarding with survey-based user profiles, like/skip feedback logging, and fallback ranking when the trained model or API is unavailable.
+
+### Virtual Lab (LLM System) 
+[GitHub](https://github.com/thehephaistos/tec-rec-llm-chat)
 An AI-powered STEAM learning platform for guided problem-solving.
 
 - Designed a **multi-level hint system** instead of direct answers  
@@ -68,6 +74,18 @@ A full-stack data system for environmental analysis across 101 cities.
 - Integrated satellite + census data (NDVI, temperature, pollution proxies)  
 - Built district-level indicators + visualization dashboard  
 - Modeled urban heat mitigation scenarios (tree canopy impact)
+
+---
+
+### Risk-Driven EDA Agent 
+[GitHub](https://github.com/nganhuongg/eda-agent)
+
+A system that automates exploratory data analysis as a **decision pipeline**.
+
+- Built a full pipeline: raw data → profiling → correlation → anomaly detection  
+- Designed a **dual-gate validation system** + feedback loop to reduce LLM inconsistency  
+- Implemented a **deterministic critic** (no LLM judging LLM) using strict numeric validation  
+- Added 60+ unit tests to enforce correctness and prevent silent failure  
 
 ---
 
