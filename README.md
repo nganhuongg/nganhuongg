@@ -34,6 +34,7 @@ An AI-supported Music Recommendation System for song searching using a desired v
 
 ### Virtual Lab (LLM System) 
 [GitHub](https://github.com/thehephaistos/tec-rec-llm-chat)
+
 An AI-powered STEAM learning platform for guided problem-solving.
 
 - Designed a **multi-level hint system** instead of direct answers  
@@ -100,7 +101,7 @@ A system that automates exploratory data analysis as a **decision pipeline**.
 
 ---
 
-## Reach me
+## Contact me
 
 If you're thinking about similar problems — especially around LLM reliability or system design — I’d love to talk.
 
