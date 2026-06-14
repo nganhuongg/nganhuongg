@@ -1,23 +1,21 @@
 ## Ngan Huong Nguyen
 
-Hi, I am Huong. I am currently an undergraduate student, majoring in CS, at Minerva University, based in San Francisco, CA. I have thousands of recurring systems about data engineering, machine learning, and algorithm thinking. These questions pulled me into building models, systems and everything to truly understand how they can create an entire tech empire.
+Hi, I am Huong. I am currently an undergraduate student, majoring in CS, at Minerva University, based in San Francisco, CA. I have thousands of questions about data engineering, machine learning, and algorithm thinking. These questions pulled me into building models, systems and everything to truly understand how they can create an entire tech empire.
 
 ## What I care about
 
 - Algorithms & optimization  
-- Machine learning fundamentals (not just APIs)  
-- How data, models, and systems interact  
+- Data Infrastructure
+- Deep learning
 
-I’m especially interested in:
-- Optimizing current systems by researching their **underlying algorithms**
-- Turning real-world problems into **tractable models**
-- Building **AI-powered systems** that are structured and reliable
+I’m especially interested in optimizing current systems by researching their **underlying algorithms**, turning real-world problems into **tractable models**, and building **AI-powered systems** that are structured and reliable
 
 
 ## What I’ve been building
 
 ### Business Analytics & Forecasting
 [GitHub](https://github.com/nganhuongg/business-data-analysis-and-prediction)
+
 A data analysis and revenue prediction report for a Vietnamese e-commerce company
 
 - Conducted exploratory analysis and built visual analytics reports on business revenue, cost, promotion, and seasonality patterns to identify key drivers of financial performance.
@@ -28,6 +26,7 @@ A data analysis and revenue prediction report for a Vietnamese e-commerce compan
 ---
 ### Applied AI Music Recommendation System
 [GitHub](https://github.com/nganhuongg/applied-ai-music-recommendation-system)
+
 An AI-supported Music Recommendation System for song searching using a desired vibe description
 
 - Built a three-stage recommendation pipeline over 81k songs: TF-IDF retrieval for candidate generation, ML ranking for personalization, and LLM-generated explanations.
@@ -44,6 +43,7 @@ An AI-powered STEAM learning platform for guided problem-solving.
 ---
 
 ### Teacher Allocation Optimization System
+
 [GitHub](https://github.com/tony-buildd/Soda-hack)
 
 A real-world optimization system used by a provincial Department of Education.
@@ -97,14 +97,6 @@ A system that automates exploratory data analysis as a **decision pipeline**.
 - FastAPI + Flask (backend systems)
 - Git (version control)
 - Claude Code, Codex 
-
----
-
-## What I’m working on now
-
-- Making **LLM systems** more observable and evaluatable  
-- Designing **autonomous pipelines** instead of best-case demos  
-- Understanding how **system architect** work under real-world constraints
 
 ---
 
