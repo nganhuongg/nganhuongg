@@ -24,15 +24,27 @@ I've worked on C++ inference code, graph optimization, speech translation, and d
 
 [![Languages: C++, Python, TypeScript, MATLAB](https://skillicons.dev/icons?i=cpp,python,ts,matlab)](https://skillicons.dev)
 
+C++ · Python · TypeScript · MATLAB
+
 **Machine Learning & Data**
 
 [![Machine learning and data: PyTorch, PostgreSQL](https://skillicons.dev/icons?i=pytorch,postgres)](https://skillicons.dev)
 
-PyTorch · Hugging Face Transformers · NumPy · Pandas · Scikit-learn · SQL
+PyTorch · PostgreSQL
 
-**Backend & Interfaces**
+Also used: Hugging Face Transformers, NumPy, Pandas, Scikit-learn, SQL.
 
-[![Backend and interfaces: FastAPI, Flask, React, Next.js, Supabase, Vite, Tailwind](https://skillicons.dev/icons?i=fastapi,flask,react,nextjs,supabase,vite,tailwind&perline=7)](https://skillicons.dev)
+### Backend
+
+[![Backend](https://skillicons.dev/icons?i=fastapi,flask,supabase)](https://skillicons.dev)
+
+FastAPI · Flask · Supabase
+
+### Frontend
+
+[![Frontend](https://skillicons.dev/icons?i=react,nextjs,vite,tailwind)](https://skillicons.dev)
+
+React · Next.js · Vite · Tailwind CSS
 
 ## 🔎 Selected Work
 
