@@ -78,26 +78,13 @@ A full-stack data system for environmental analysis across 101 cities.
 
 ---
 
-### Risk-Driven EDA Agent 
-[GitHub](https://github.com/nganhuongg/eda-agent)
-
-A system that automates exploratory data analysis as a **decision pipeline**.
-
-- Built a full pipeline: raw data → profiling → correlation → anomaly detection  
-- Designed a **dual-gate validation system** + feedback loop to reduce LLM inconsistency  
-- Implemented a **deterministic critic** (no LLM judging LLM) using strict numeric validation  
-- Added 60+ unit tests to enforce correctness and prevent silent failure  
-
----
-
 ## Tools I use
 
-- Python (ML systems, data pipelines)  
+- Python + PyTorch (ML systems, data pipelines)  
 - C++ (optimization, algorithms)  
 - TypeScript + React + Next.js (interfaces for systems)  
 - FastAPI + Flask (backend systems)
 - Git (version control)
-- Claude Code, Codex 
 
 ---
 
