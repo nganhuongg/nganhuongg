@@ -1,96 +1,93 @@
-## Ngan Huong Nguyen
+<div align="center">
 
-Hi, I am Huong. I am currently an undergraduate student, majoring in CS, at Minerva University, based in San Francisco, CA. I have thousands of questions about data engineering, machine learning, and algorithm thinking. These questions pulled me into building models, systems and everything to truly understand how they can create an entire tech empire.
+# Hi, I'm Huong 👋
 
-## What I care about
+**Computer Science undergraduate at Minerva University · Class of 2029**
 
-- Algorithms & optimization  
-- Data Infrastructure
-- Deep learning
+Algorithms · Systems · Machine Learning
 
-I’m especially interested in optimizing current systems by researching their **underlying algorithms**, turning real-world problems into **tractable models**, and building **AI-powered systems** that are structured and reliable
+[LinkedIn](https://www.linkedin.com/in/nganhuongnguyenn) · [Email](mailto:nganhuong.nguyenn@gmail.com)
 
-
-## What I’ve been building
-
-### Business Analytics & Forecasting
-[GitHub](https://github.com/nganhuongg/business-data-analysis-and-prediction)
-
-A data analysis and revenue prediction report for a Vietnamese e-commerce company
-
-- Conducted exploratory analysis and built visual analytics reports on business revenue, cost, promotion, and seasonality patterns to identify key drivers of financial performance.
-- Engineered time-series features including lag variables, rolling statistics, seasonal indicators, and promotion features while avoiding target leakage.
-- Trained and evaluated baseline and ensemble forecasting models using expanding-window validation, comparing MAE, RMSE, and R².
-- Interpreted feature importance to explain how historical sales and promotions influenced predicted revenue.
-
----
-### Applied AI Music Recommendation System
-[GitHub](https://github.com/nganhuongg/applied-ai-music-recommendation-system)
-
-An AI-supported Music Recommendation System for song searching using a desired vibe description
-
-- Built a three-stage recommendation pipeline over 81k songs: TF-IDF retrieval for candidate generation, ML ranking for personalization, and LLM-generated explanations.
-- Designed cold-start onboarding with survey-based user profiles, like/skip feedback logging, and fallback ranking when the trained model or API is unavailable.
-
-### Virtual Lab (LLM System) 
-[GitHub](https://github.com/thehephaistos/tec-rec-llm-chat)
-
-An AI-powered STEAM learning platform for guided problem-solving.
-
-- Designed a **multi-level hint system** instead of direct answers  
-- Built prompt orchestration pipelines
-- Controlled outputs to encourage reasoning, not shortcutting  
+</div>
 
 ---
 
-### Teacher Allocation Optimization System
+I like understanding how things work beneath the interface: how an algorithm handles constraints, how model weights become executable computations, and how data moves through a working system.
 
-[GitHub](https://github.com/tony-buildd/Soda-hack)
+I've worked on C++ inference code, graph optimization, speech translation, and deployed data systems. My longer-term interests are theoretical computer science and mathematical quantum information.
 
-A real-world optimization system used by a provincial Department of Education.
+**I'm currently studying parallel computing and quantum computing**, alongside algorithms, linear algebra, and probability.
 
-- Reduced total teacher travel distance by **400+ km**  
-- Saved **50+ staff hours** through automation  
-- Implemented **Min-Cost Max-Flow** with augmenting paths in C++  
-- Benchmarked against greedy baseline → ~40% improvement  
+## 🛠️ Tech Stack
 
----
+**Languages**
 
-### ECG Multi-Label Disease Classification 
-[GitHub](https://github.com/nganhuongg/ECG-classification)
+[![Languages: C++, Python, TypeScript, MATLAB](https://skillicons.dev/icons?i=cpp,python,ts,matlab)](https://skillicons.dev)
 
-A machine learning system for predicting multiple heart conditions.
+**Machine Learning & Data**
 
-- Trained on **21k ECG recordings** with 459 engineered features  
-- Built a full ML pipeline: preprocessing → feature engineering → training → evaluation  
-- Analyzed **class imbalance effects** on model performance
+[![Machine learning and data: PyTorch, PostgreSQL](https://skillicons.dev/icons?i=pytorch,postgres)](https://skillicons.dev)
 
----
+PyTorch · Hugging Face Transformers · NumPy · Pandas · Scikit-learn · SQL
 
-### Bay Area Environmental Dashboard 
-[GitHub](https://github.com/kh268/urban-planner)
+**Backend & Interfaces**
 
-A full-stack data system for environmental analysis across 101 cities.
+[![Backend and interfaces: FastAPI, Flask, React, Next.js, Supabase, Vite, Tailwind](https://skillicons.dev/icons?i=fastapi,flask,react,nextjs,supabase,vite,tailwind&perline=7)](https://skillicons.dev)
 
-- Integrated satellite + census data (NDVI, temperature, pollution proxies)  
-- Built district-level indicators + visualization dashboard  
-- Modeled urban heat mitigation scenarios (tree canopy impact)
+## 🔎 Selected Work
 
----
+### Sparse Adapter Support for llama.cpp
+**C++ · Python · GGML · PyTorch**
 
-## Tools I use
+Worked on the path from Hugging Face model weights to C++ inference for sparse adapter architectures.
 
-- Python + PyTorch (ML systems, data pipelines)  
-- C++ (optimization, algorithms)  
-- TypeScript + React + Next.js (interfaces for systems)  
-- FastAPI + Flask (backend systems)
-- Git (version control)
+- Extended HF-to-GGUF conversion, architecture metadata, and tensor loading.
+- Implemented sparse expert computation graphs and checked outputs against a PyTorch reference.
 
----
+[Implementation notes](https://github.com/nganhuongg/ai301-github-contribution/blob/main/README.md)
 
-## Contact me
+### AI Navigation SDK
+**Python · FastAPI · TypeScript · Dijkstra**
 
-If you're thinking about similar problems — especially around LLM reliability or system design — I’d love to talk.
+A hospital journey assistant for elderly and mobility-impaired patients, combining OCR intake, Vietnamese voice assistance, care checklists, and indoor navigation.
 
-- LinkedIn: [Ngan Huong Nguyen](https://www.linkedin.com/in/nganhuongnguyenn)
-- Email: nganhuong.nguyenn@gmail.com
+- Implemented Dijkstra routing on a manually modeled multi-floor hospital graph, with elevator-prioritized paths for wheelchair users.
+- Connected OCR extraction to user confirmation and journey updates, with tests and staff escalation for uncertain outputs.
+
+[Repository](https://github.com/nganhuongg/AI-Navigation-SDK)
+
+### Vietnamese–English Speech Translation
+**PyTorch · Whisper · Transformers · LoRA**
+
+A pipeline for translating Vietnamese speech directly into English text.
+
+- Built training, validation, and decoding workflows; compared model sizes, learning rates, and decoding settings.
+- Investigated configuration mismatches and errors involving noise, overlapping speech, repetition, and named entities.
+
+[Repository](https://github.com/nganhuongg/vietnamese-english-direct-translaction)
+
+### Teacher Allocation Optimization
+**C++ · Min-Cost Max-Flow · Flask · Next.js**
+
+Modeled teacher assignments across schools under staffing and travel-distance constraints.
+
+- Implemented a min-cost max-flow solver using Bellman-Ford-based augmenting paths.
+- Reduced total travel distance by approximately 40% against a greedy baseline in tested simulated scenarios.
+
+[Repository](https://github.com/tony-buildd/Soda-hack)
+
+## 📂 More Projects
+
+| Project | Focus |
+| --- | --- |
+| [Financial Reasoning Agent](https://github.com/nganhuongg/self-improving-finance-agent) | Reproducible evaluation, operation-level error analysis, cost and latency |
+| [Music Recommendation](https://github.com/nganhuongg/applied-ai-music-recommendation-system) | Retrieval and personalized ranking over 81k songs, with cold-start handling |
+| [Business Forecasting](https://github.com/nganhuongg/business-data-analysis-and-prediction) | Time-series features, leakage prevention, expanding-window validation |
+| [Virtual Lab](https://github.com/thehephaistos/tec-rec-llm-chat) | Guided STEAM problem-solving with progressive hints |
+| [Environmental Dashboard](https://github.com/kh268/urban-planner) | Satellite and census data analysis across 101 Bay Area cities |
+
+## 💬 Connect
+
+I'm happy to talk about algorithms, inference systems, parallel computing, or learning quantum computing from a CS and mathematics perspective.
+
+[LinkedIn](https://www.linkedin.com/in/nganhuongnguyenn) · [Email](mailto:nganhuong.nguyenn@gmail.com)
