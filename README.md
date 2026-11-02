@@ -12,11 +12,7 @@ Algorithms · Systems · Machine Learning
 
 ---
 
-I like understanding how things work beneath the interface: how an algorithm handles constraints, how model weights become executable computations, and how data moves through a working system.
-
-I've worked on C++ inference code, graph optimization, speech translation, and deployed data systems. My longer-term interests are theoretical computer science and mathematical quantum information.
-
-**I'm currently studying parallel computing and quantum computing**, alongside algorithms, linear algebra, and probability.
+I like understanding how things work beneath the interface: how an algorithm handles constraints, how model weights become executable computations, and how data moves through a working system. I am open to exploring new fields, contributing to real-world software systems.
 
 ## 🛠️ Tech Stack
 
@@ -57,6 +53,16 @@ Worked on the path from Hugging Face model weights to C++ inference for sparse a
 - Implemented sparse expert computation graphs and checked outputs against a PyTorch reference.
 
 [Implementation notes](https://github.com/nganhuongg/ai301-github-contribution/blob/main/README.md)
+
+### TraceForge — Multi-Agent Decision Provenance Platform
+**Python · Neo4j · AWS Strands Agents · FastAPI · Next.js**
+
+A multi-agent credit-decision platform that captures agent reasoning, tool calls, and costs in a traceable provenance graph for auditing and debugging.
+
+- Contributed to a Neo4j-based provenance pipeline tracking cross-agent events, tool calls, and execution costs, with SHA-256 hash chains for tamper detection.
+- Worked on trace reconstruction and audit workflows, with live SSE streaming and a dashboard for visualizing agent decisions and execution timelines.
+
+[Repository](https://github.com/ElijahUmana/traceforge)
 
 ### AI Navigation SDK
 **Python · FastAPI · TypeScript · Dijkstra**
